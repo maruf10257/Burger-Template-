@@ -1,0 +1,136 @@
+
+body{margin:0;padding:0}
+	a{text-decoration:none}
+header{background-image:url('images/hero-bg.png');padding:35px 0px}
+.header-width{width:90%;margin:auto;}
+ .header-left{width:50%;float:left}
+ 
+ .header-right{width:50%;overflow:hidden;text-align:right;color:#42200b;}
+ .main-nav span{font-family:'Montserrat', sans-serif;font-size: 15px;
+color: #42200b;
+font-weight: 600;}
+.main-nav nav ul {
+    list-style: none;
+}
+.main-nav nav ul li {
+	font-family: 'Bebas Neue', cursive;
+    display: inline;
+    margin-left: 50px;
+	font-size:20px;
+}
+.main-nav nav ul li a{text-decoration:none;color:#42200b}
+header .header-leftContent{width:50%;float:left;color: #42200b;clear:both;padding-top: 10rem;
+}
+	.header-leftContent p{
+    width: 55%;
+    color: #42200b;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+    padding: 10px 0px;
+    border: 2px;
+    border-style: dashed;
+   margin-bottom: -8px;
+}
+	.header-leftContent h1 {
+    font-family: 'Alfa Slab One', cursive;
+	font-size: 100px;
+	margin: 0;
+	text-shadow: 3px 3px 2px white;
+}
+	.header-leftContent h2 {
+    margin: 0;
+    font-size: 70px;
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: -43px;
+	text-shadow: 3px 3px 2px white;
+}
+header .header-rightContent{width:50%;overflow:hidden;text-align:left;}
+	.header-rightContent img {
+    width: 118%;
+	display: block;
+margin-top: -100px;
+margin-bottom: -151px;
+}
+	.header-rightContent .offer {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 12px;
+    background: #DF1C1C;
+	color:white;
+	position: relative;
+    top: -196px;
+	    margin-bottom: -164px;
+}
+	.header-rightContent .price-offer{
+background: #DF1C1C;
+    border: 2px white;
+    border-style: dashed;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 50%;
+	margin: -2px -2px 0px -2px;
+	font-weight: bold;font-family:'Montserrat', sans-serif
+	}
+/*Header section closed*/
+#first-section .container{
+	width:85%;margin:100px auto;
+}
+#first-section .col-50{width:48%;border-radius:10px;float:left;height:410px;}
+#first-section .container .button{text-align:center}
+#first-section .container .button a {
+    padding: 12px 30px;
+    background: #FFC135;
+    color: #42200b;
+    font-size: 22px;
+    font-family: 'Bebas Neue', cursive;
+        text-align: center;
+    display: inline-block;
+    margin-top: 93px;
+}
+/*first section closed*/
+#second-section{
+	text-align:center;
+}
+#second-section .col-33 {
+    width: 33.33%;
+    float: left;
+    overflow: hidden;
+}
+section h1 {
+    font-size: 65px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #42200b;
+    letter-spacing: 2px;
+}
+ section p {
+    font-size: 19px;
+    color: #151515;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    line-height: 2;
+	    width: 80%;
+    margin: auto;
+}
+section button {
+    padding: 10px 35px;
+    background: #e60a33;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    border: none;
+}
+#second-section .col-33 p {
+    line-height: 25px;
+    width: 80%;
+    margin: 28px auto;
+}
+#second-section .col-33 h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+}
+/*SECOND SECTION CLOSED*/
+#third-section .container {}
